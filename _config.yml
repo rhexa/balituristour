@@ -1,7 +1,7 @@
 # Site settings
 title: Bali Turis Tour
 description: Bali Turis Tour - Travel agent website using Jekyll and Lokmont theme.
-baseurl: "balituristour" # the subpath of your site, e.g. /blog
+baseurl: "/balituristour" # the subpath of your site, e.g. /blog
 url: "https://rhexa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
