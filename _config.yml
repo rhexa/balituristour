@@ -1,12 +1,12 @@
 # Site settings
-title: Bali Turis Tour
-description: Bali Turis Tour - Travel agent website using Jekyll and Lokmont theme.
+title: Bali Volcanoes Trekking and Tour
+description: Bali Volcanoes Trekking and Tour - Travel agent website using Jekyll and Lokmont theme.
 baseurl: "/balituristour" # the subpath of your site, e.g. /blog
 url: "https://rhexa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: Bali Turis Tour
+hero-title: Bali Volcanoes Trekking and Tour
 hero-description: One website for everything you need during your holiday in Bali
 
 # Author - Creator
